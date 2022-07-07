@@ -1,4 +1,26 @@
 [
-{},
-{}
+  {
+    "title":"Onda de lesões desfalca seleções nas competições internacionais do futebol feminino",
+    "description":"Sem Copa do Mundo nem qualquer outra competição de relevo no futebol masculino, julho de 2022 virou o mês das mulheres. Quatro campeonatos continentais femininos de seleções serão disputados simultaneamente: Copa América, Eurocopa, Copa Africana de Nações e o Campeonato da Concacaf. Mas o desfile de craques mundiais já está seriamente prejudicado por causa de uma onda de lesões.", 
+    "image": "https://s2.glbimg.com/ZGH1fohEBaOfc9v7_BzlpDcZjbU=/0x0:1080x608/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/L/k/GRewM7ShqSybZZPBdJzg/carrossel-lesao.jpg", 
+    "link" : "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml"
+  },
+  {
+    "title":"Botafogo supera Ceará pelo Brasileiro de Futebol Feminino Sub-20",
+    "description":"Na tarde desta sexta-feira (6), o Botafogo venceu o Ceará pelo Campeonato Brasileiro de Futebol Feminino Sub-20. No estádio Gabriel Marques Silva, em Santana do Parnaíba, o Fogão venceu por 3 a 0.\n No primeiro tempo, o clube carioca abriu 2 a 0, com dois gols de Isa. Na etapa final, Elisvânia ampliou a vantagem.",
+    "image": "https://s2.glbimg.com/ys-LRXSJkJmOgMeaPvkHa34XOLE=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/w/s/rlBzkrQ7qe0c1QrAbNyg/0l2a2083.jpg",
+    "link" : "https://ge.globo.com/ce/futebol/futebol-feminino/noticia/2022/05/06/botafogo-supera-ceara-pelo-brasileiro-de-futebol-feminino-sub-20.ghtml"
+  },
+  {
+    "title":"Otimismo",
+    "description": "Apesar de derrotas, Pia mantém confiança na seleção: \"Estaremos prontas para a Copa América",
+    "image": "https://esportenewsmundo.com.br/wp-content/uploads/2022/06/1656558183356659.jpg",
+    "link" : "https://esportenewsmundo.com.br/coritiba-e-athletico-esperam-nova-definicao-apos-adiamento-do-paranaense-feminino/"
+  },
+  {
+    "title":"Copa América x Euro",
+    "description":"Conmebol e Uefa anunciam versão feminina da Finalíssima e Intercontinental Sub-20",
+    "image": "https://esportenewsmundo.com.br/pia-sundhage-reconhece-dificuldade-em-manter-a-alta-intensidade/",
+    "link": "https://esportenewsmundo.com.br/pia-sundhage-reconhece-dificuldade-em-manter-a-alta-intensidade/"
+  },
 ]
